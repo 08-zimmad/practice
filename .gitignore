@@ -1,1 +1,7 @@
 .venv
+/practice/__pycache__
+practice/migrations/__pycache__
+practice/gen_api/__pycache__
+practice/gen_api/migrations/__pycache__
+practice/practice/__pycache__
+practice/practice/migrations/__pycache__
